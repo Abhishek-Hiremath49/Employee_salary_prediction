@@ -38,8 +38,8 @@ Installation & Setup
 
 Clone the repository:
 
-git clone https://github.com/ayushanand18/income-predictor.git
-cd income-predictor
+git clone https:https://github.com/Abhishek-Hiremath49/Employee_salary_prediction
+
 
 Create and activate a virtual environment:
 
@@ -80,6 +80,4 @@ The predictive power of this application comes from a carefully constructed mach
 
 🤝 Contact
 
-Created with passion by Ayush Anand. Let's connect!
-
-    LinkedIn: Ayush Anand
+Created with passion by Abhishek. Let's connect!
